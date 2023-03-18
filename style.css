@@ -1,0 +1,13 @@
+.cell {
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.16);
+    height: 16px;
+    width: 16px
+}
+
+#the-grid {
+    width: fit-content;
+    display: grid;
+    background-color: greenyellow;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+}
