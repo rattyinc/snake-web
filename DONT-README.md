@@ -13,3 +13,4 @@ web-dev homework
   - Buttons to start / pause game
 - Additional
   - Custom grid size through user input when starting new game
+  - Make phone GUI clickable to control snake
