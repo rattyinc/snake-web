@@ -14,3 +14,4 @@ web-dev homework
 - Additional
   - Custom grid size through user input when starting new game
   - Make phone GUI clickable to control snake
+  - Program the Nokia 3310 interface including hooking up zoom and skype for calling and messaging
