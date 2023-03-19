@@ -1,13 +1,34 @@
 .cell {
     background-color: rgba(0, 0, 0, 0.2);
-    border: 1px solid rgba(0, 0, 0, 0.16);
+    border: 1px solid rgba(0, 0, 0, 0.01);
     height: 16px;
     width: 16px
+}
+
+.snake-cell {
+    background-color: darkolivegreen;
+}
+
+.phone {
+    position: absolute;
+    left: -292px;
+    top: -625px;
+    scale: 0.33;
+}
+
+.phone-bg {
+    position: absolute;
+    top: 180px;
+    left: -38px;
+    z-index: -10;
+    padding: 64px 32px;
+    background-color: #8acc26;
+    scale: 0.5;
 }
 
 #the-grid {
     width: fit-content;
     display: grid;
     background-color: greenyellow;
-    grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+    border: 8px solid darkolivegreen;
 }
