@@ -8,7 +8,7 @@ web-dev homework
     - Increase snake length
     - Increase movement speed
 - Metagame
-  - Add an endgame for when the user collides with the edge
+  - Add an endgame for when the user collides with the edge or itself
   - Show a relevant score to the user
   - Buttons to start / pause game
 - Additional
