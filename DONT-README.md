@@ -13,5 +13,6 @@ web-dev homework
   - Buttons to start / pause game
 - Additional
   - Custom grid size through user input when starting new game
+  - Keep a high scores of the top 5 players using 3 letter inital
   - Make phone GUI clickable to control snake
   - Program the Nokia 3310 interface including hooking up zoom and skype for calling and messaging
